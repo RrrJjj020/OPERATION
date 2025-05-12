@@ -2,50 +2,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Menu Interaktif Vertikal</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      padding: 20px;
-    }
-
-    .menu-section {
-      margin-bottom: 20px;
-    }
-
-    .menu-title {
-      background-color: #f0f0f0;
-      border: none;
-      font-size: 18px;
-      font-weight: bold;
-      cursor: pointer;
-      padding: 8px 12px;
-      text-align: left;
-      width: 100%;
-    }
-
-    ul {
-      list-style-type: none;
-      padding-left: 20px;
-      margin-top: 5px;
-    }
-
-    li {
-      margin: 5px 0;
-    }
-
-    .sub-detail {
-      margin-left: 20px;
-      color: gray;
-    }
-
-    .submenu {
-      margin-top: 5px;
-    }
-  </style>
-</head>
-<body>
-
   <!-- PANDORA188 -->
   <div class="menu-section">
     <button class="menu-title" onclick="toggle('menuPandora')">▶ PANDORA188</button>
