@@ -1,5 +1,5 @@
 # Testtt
-<!DOCTYPE html>
+<PSG OPERASIONAL>
 <html>
 <head>
   <!-- PANDORA188 -->
@@ -71,7 +71,7 @@
     </ul>
   </div>
 
-    <!-- GACOR188 -->
+  <!-- GACOR188 -->
   <div class="menu-section">
     <button class="menu-title" onclick="toggle('menuGacor')">▶ GACOR188</button>
     <ul id="menuGacor" style="display:none;">
