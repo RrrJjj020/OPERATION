@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Interaktif Menu</title>
+  <style>
+    button {
+      background: none;
+      border: none;
+      cursor: pointer;
+      padding: 4px;
+      font-size: 16px;
+    }
+    ul {
+      list-style-type: square;
+    }
+  </style>
+</head>
+<body>
+
+  <div>
+    <!-- Tombol utama -->
+    <button onclick="toggleList()">▶ PANDORA188</button>
+
+    <!-- Submenu level 1 -->
+    <ul id="submenu" style="display:none; margin-top:10px;">
+      <li>
+        <button onclick="toggleDetail()">WD PGA PENDING</button>
+        <div id="detail" style="display:none; margin-left:20px; color:gray;">
+          aaphbxhustt pga pending
+        </div>
+      </li>
+      <li>REKENING AKTIF</li>
+      <li>LINK AKTIF</li>
+    </ul>
+  </div>
+
+  <script>
+    function toggleList() {
+      var submenu = document.getElementById("submenu");
+      submenu.style.display = submenu.style.display === "none" ? "block" : "none";
+    }
+
+    function toggleDetail() {
+      var detail = document.getElementById("detail");
+      detail.style.display = detail.style.display === "none" ? "block" : "none";
+    }
+  </script>
+
+</body>
+</html>
