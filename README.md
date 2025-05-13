@@ -3,10 +3,10 @@
 # Testtt - PSG OPERASIONAL
 <html>
 <head>
-  <title>Halaman Sederhana</title>
+  <title>INI LINK RICKY DONGGGGSSSSS.....</title>
 </head>
 <body>
-  <h1>Halo Dunia!</h1>
-  <p>Ini adalah halaman web pertamaku.</p>
+  <h1>Mohon maaf ini hanya percobaan bukan kelinci percobaan</h1>
+  <p>Ini adalah halaman web yg coba coba</p>
 </body>
 </html>
