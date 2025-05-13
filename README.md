@@ -1,15 +1,16 @@
-<!DOCTYPE html>
 <html>
   <head>
     <title>Lemah sekali</title>
   </head>
   <body>
-    <a href="https://www.google.com/search?q=medan+barat&sca_esv=db94c43514cdc207&rlz=1C1GCEU_enKH1161KH1161&ei=vggjaNGNDdPE4-EPvvfUkQ0&ved=0ahUKEwjR5KGhiaCNAxVT4jgGHb47NdIQ4dUDCBA&uact=5&oq=medan+barat&gs_lp=Egxnd3Mtd2l6LXNlcnAiC21lZGFuIGJhcmF0MgUQLhiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAuGIAEMgUQABiABEiZMVC6B1i5KHAFeAGQAQGYAdkBoAHZEaoBBjAuMTUuMrgBA8gBAPgBAZgCFaACohKoAgrCAgoQABiwAxjWBBhHwgINEC4YgAQYsAMYQxiKBcICDRAAGIAEGLADGEMYigXCAhMQLhiABBhDGLQCGIoFGOoC2AEBwgIKEC4YgAQYQxiKBcICDhAAGIAEGLEDGIMBGIoFwgIIEC4YgAQYsQPCAggQABiABBixA8ICCxAAGIAEGLEDGIMBwgIKEAAYgAQYQxiKBcICBxAAGIAEGArCAgoQABiABBixAxgKwgIQEAAYgAQYsQMYQxiDARiKBcICEBAAGIAEGLEDGIMBGIoFGArCAg0QLhiABBixAxhDGIoFwgIOEC4YgAQYxwEYjgUYrwHCAg0QABiABBixAxhGGPsBwgILEC4YgAQYxwEYrwHCAggQABiABBjJA8ICCxAAGIAEGJIDGIoFwgIIEAAYgAQYkgOYAw7xBepaAI8WKeQ8iAYBkAYLugYECAEYB5IHBjUuMTQuMqAHss4BsgcGMC4xNC4yuAfpEQ&sclient=gws-wiz-serp" target="_blank">
-      <button>Halo Ini Link Ricky</button>
+    <a href="https://www.google.com/search?q=ade+rosita+sari&rlz=1C1GCEU_enKH1161KH1161&oq=ade+rosita+sari&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgcIARAAGO8FMgoIAhAAGIAEGKIEMgoIAxAAGIAEGKIEMgcIBBAAGO8FMgoIBRAAGIAEGKIE0gEINDMyM2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8" target="_blank">
+      <button>Halo Ini Link bantu klik ya</button>
     </a>
-    <a href="https://www.google.com/search?gs_ssp=eJzj4tTP1TcwjE-JzzNg9GLNTU1JzAMAMFEFVQ&q=medan&rlz=1C1GCEU_enKH1161KH1161&oq=medan&gs_lcrp=EgZjaHJvbWUqCggBEC4YsQMYgAQyDQgAEAAY4wIYsQMYgAQyCggBEC4YsQMYgAQyDQgCEC4YrwEYxwEYgAQyBwgDEC4YgAQyDQgEEAAYgwEYsQMYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyCggJEAAYsQMYgATSAQgyNjIyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8" target="_blank">
-      <h1>Selamat Datang Kawan - Kawan...</h1>
+    <a href="https://www.google.com/search?sca_esv=db94c43514cdc207&rlz=1C1GCEU_enKH1161KH1161&q=ade+rosita+sari&udm=2&fbs=ABzOT_C2mzfbBpN7zf5n_jhffbGK7kWMKiG9F5QeNIPNz-EkDpBygYdLKfYNdJ1xgQPvDZGwWK-kqSgJPWj-A4EkPgJGSy-6ze1_vcrcMOQxsgHVddnTTvt1fwpJk3nZw6TldIFI2pDHvsJGeSdeMVOgoy436MFNELBVtRaMm1Ij-uGTmP8A34OVebD8gpn_dwzgxPUMR10BUbDfNVY9JVr87u4_bJGQ9Q&sa=X&ved=2ahUKEwii_Ia8jqCNAxVIXGwGHXfhKfIQtKgLegQIExAB&biw=657&bih=434&dpr=1" target="_blank">
+      <h1>jangan Klik nnti nyesel...</h1>
     </a>
-    <p>Ini adalah contoh halaman HTML pertama saya.</p>
+    <a href="https://www.google.com/search?sca_esv=db94c43514cdc207&rlz=1C1GCEU_enKH1161KH1161&q=ricky+joedany+pro+basketball&source=lnms&fbs=ABzOT_DaErrL5leOnJjAnwQEcL8d-F0_Myt8aF7JnPGu0Y3Qf6dde-gfI45Ya7Ao6lRVS-zQiV5QqOSsnmUAFh9Lw2NGmhVzrOXDbp-JIFylVbM5nvpXDW9hOszRLLAW9FVfRfH4Z5SE99Mna26tEtRoi3KHngtzTeeM7nJMBI0XkQYIFaJIaAwYkJLpughoVABfPTChKkHYjJOp6ss26_TIKpeazewyBXfAc41uKwljSR6I5EVo90g&sa=X&ved=2ahUKEwiIwOujj6CNAxVcR2wGHfqjAa4Q0pQJegQIDxAB&biw=657&bih=434&dpr=1" target="blank">
+    <p>Ini adalah contoh kawan hebat saya.</p> 
+    </a>
   </body>
 </html>
