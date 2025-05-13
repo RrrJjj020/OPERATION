@@ -1,7 +1,6 @@
 
 <!DOCTYPE html>
 <html lang="id">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -10,14 +9,12 @@
     </title>
     <link rel="stylesheet" href="/style.css">
 </head>
-
 <body>
     <header class="main-header">
         <div class="container">
             <div class="logo">PSG GROUP</div>
         </div>
     </header>
-
     <div class="main-container">
         <nav class="sidebar">
             <h2>Navigasi</h2>
@@ -47,13 +44,9 @@
                <li class="">
                     <a href="/jd" class="sidebar-jd-link">Job Description</a> </li> 
                </ul> </nav>
-
         <main class="content-area">
             <div class="content-wrapper">
                 <h1>Login Staff Data</h1>
-
-                
-
                 <form action="/staff-data/login" method="post">
                     <input type="text" name="username" placeholder="Username" required>
                     <input type="password" name="password" placeholder="Password" required>
@@ -62,12 +55,10 @@
             </div>
         </main>
     </div>
-
     <footer class="main-footer">
         <div class="container">
             <p>&copy; 2025 [PSG GROUP]. Hak Cipta Dilindungi.</p>
         </div>
     </footer>
 </body>
-
 </html>
