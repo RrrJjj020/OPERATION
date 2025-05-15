@@ -6,7 +6,14 @@
       font-family: Arial, sans-serif;
       padding: 20px;
     }
-
+    h1 {
+      cursor: pointer;
+      color: darkred;
+    }
+    h2 {
+      cursor: pointer;
+      color: darkgreen;
+    }
     button {
       font-size: 18px;
       padding: 10px 20px;
