@@ -7,11 +7,11 @@
       padding: 20px;
     }
     h1 {
-      cursor: pointed;
+      cursor: pointer;
       color: pinkred;
     }
     h2 {
-      cursor: pointed;
+      cursor: pointer;
       color: lightgreen;
     }
     button {
