@@ -10,7 +10,8 @@
   </style>
 </head>
 <body>
-  <h1>kamu siapa?</h1>
+  <h1 onclick="togglePesan()">kamu siapa?</h1>
+  <p id="pesan">Ini aku yg sangat sangat suka jalan jalan</p>
   <h2 onclick="togglePesan()">Klik tulisan ini!</h2>
   <p id="pesan">Ini adalah pesan yang muncul saat diklik.</p>
   <script>
@@ -23,6 +24,5 @@
       }
     }
   </script>
-
 </body>
 </html>
