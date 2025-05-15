@@ -30,7 +30,6 @@
       cursor: pointer;
       animation: fadeIn 0.5s ease-in-out;
     }
-
     @keyframes fadeIn {
       from {opacity: 0;}
       to {opacity: 1;}
@@ -42,8 +41,8 @@
   <p id="pesan1" class="pesan" onclick="window.open('', '_blank')">
     Ini pasti kamu yg suka jalan jalan pas tidur
   </p>
-  <h2 onclick="toggle('pesan2')">Jangan Klik tulisan ini!</h2>
-  <p id="pesan2" class="pesan" onclick="window.open('', '_blank')">
+  <h2 onclick="toggle('pesan1')">Jangan Klik tulisan ini!</h2>
+  <p id="pesan1" class="pesan" onclick="window.open('', '_blank')">
     Tuh kan emang gak ada kerjaan asal klik aja.
   </p>
   <script>
