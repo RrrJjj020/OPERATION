@@ -7,12 +7,12 @@
       padding: 20px;
     }
     h1 {
-      cursor: pointer;
-      color: darkred;
+      cursor: wait;
+      color: pinkred;
     }
     h2 {
-      cursor: pointer;
-      color: darkgreen;
+      cursor: wait;
+      color: lightgreen;
     }
     button {
       font-size: 18px;
