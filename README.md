@@ -42,7 +42,7 @@
   <p id="pesan1" class="pesan" onclick="window.open('', '_blank')">
     Ini pasti kamu yg suka jalan jalan pas tidur
   </p>
-  <h2 onclick="toggle('pesan2')">Klik tulisan ini!</h2>
+  <h2 onclick="toggle('pesan2')">Jangan Klik tulisan ini!</h2>
   <p id="pesan2" class="pesan" onclick="window.open('', '_blank')">
     Tuh kan emang gak ada kerjaan asal klik aja.
   </p>
