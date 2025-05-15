@@ -35,7 +35,7 @@
   <p id="pesan1" class="pesan" onclick="window.open('', '_blank')">
     Ini aku yg sangat sangat suka jalan jalan
   </p>
-  <h2 onclick="toggle(pesan2)">Klik tulisan ini!</h2>
+  <h2 onclick="toggle('pesan2')">Klik tulisan ini!</h2>
   <p id="pesan2" class="pesan" onclick="window.open('', '_blank')">
     Ini adalah pesan yang muncul saat diklik.
   </p>
