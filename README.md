@@ -1,54 +1,60 @@
 <html>
 <head>
-  <title>Contoh Klik Sederhana</title>
+  <title>Interaktif ANDA KAMU</title>
   <style>
     body {
       font-family: Arial, sans-serif;
-      padding: 20px;
     }
-    h1 {
+    p, a {
       cursor: pointer;
-      color: pinkred;
+      margin: 5px 0;
+      font-size: 35px;
+      text-decoration: none;
     }
-    h2 {
-      cursor: pointer;
-      color: lightgreen;
-    }
-    button {
-      font-size: 18px;
-      padding: 10px 20px;
-      margin: 10px 0;
-      cursor: pointer;
-    }
-
-    .pesan {
+    .hidden {
       display: none;
-      margin: 10px 0;
-      padding: 10px;
-      border-left: 4px solid #007BFF;
-      background-color: #f0f8ff;
-      cursor: pointer;
-      animation: fadeIn 0.5s ease-in-out;
     }
-    @keyframes fadeIn {
-      from {opacity: 0;}
-      to {opacity: 1;}
+    .ya {
+      cursor: pointer;
+      color: green;
+      font-weight: bold;
+    }
+    .tidak {
+      cursor: not-allowed;
+      color: red;
+      font-weight: bold;
+
+    #kamuContent {
+      text-align: center;
     }
   </style>
 </head>
 <body>
-  <h1 onclick="toggle('pesan1')">kamu siapa?</h1>
-  <p id="pesan1" class="pesan" onclick="window.open('', '_blank')">
-    Ini pasti kamu yg suka jalan jalan pas tidur
-  </p>
-  <h2 onclick="toggle('pesan1')">Jangan Klik tulisan ini!</h2>
-  <p id="pesan1" class="pesan" onclick="window.open('', '_blank')">
-    Tuh kan emang gak ada kerjaan asal klik aja.
-  </p>
+  <p onclick="toggleAnda()" style="text-align: center;">IBIPPP SAYANGGG</p>
+  <!-- Konten setelah klik ANDA -->
+  <div id="andaContent" class="hidden">
+    <p onclick="toggleKamu()" style="text-align: center;">SAYANG BANGET SAMA AKU.....</p>
+    
+    <div id="kamuContent" class="hidden">
+      <a href="https://google.com" target="_blank" class="ya">YA</a>
+      <br>
+      <a href="https://contoh-tidak-baik-tidak-sayang-pacar/suami.com" target="_blank" class="tidak">TIDAK</a>
+    </div>
+    
+    <p onclick="errorSaya()" style="text-align: center;">Cukup Sayang</p>
+  </div>
+  <div style="width: 50%; margin: auto; text-align: center;">
+    <p>&copy;2021 Ibippp Sayangkuu. All for Ibippp.</p>
+  </div>
   <script>
-    function toggle(id) {
-      const el = document.getElementById(id);
-      el.style.display = (el.style.display === "none") ? "block" : "none";
+    function toggleAnda() {
+      document.getElementById("andaContent").classList.toggle("hidden");
+    }
+    function toggleKamu() {
+      document.getElementById("kamuContent").classList.toggle("hidden");
+    }
+    function errorSaya() {
+      alert("❌ Terjadi Error! Ibip tidak boleh klik Cukup Sayang.");
     }
   </script>
 </body>
