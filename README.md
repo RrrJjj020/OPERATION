@@ -40,11 +40,11 @@
 <body>
   <h1 onclick="toggle('pesan1')">kamu siapa?</h1>
   <p id="pesan1" class="pesan" onclick="window.open('', '_blank')">
-    Ini aku yg sangat sangat suka jalan jalan
+    Ini pasti kamu yg suka jalan jalan pas tidur
   </p>
   <h2 onclick="toggle('pesan2')">Klik tulisan ini!</h2>
   <p id="pesan2" class="pesan" onclick="window.open('', '_blank')">
-    Ini adalah pesan yang muncul saat diklik.
+    Tuh kan emang gak ada kerjaan asal klik aja.
   </p>
   <script>
     function toggle(id) {
