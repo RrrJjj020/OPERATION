@@ -30,21 +30,19 @@
   </style>
 </head>
 <body>
-  <p onclick="toggleAnda()" style="text-align: center;">IBIPPP SAYANGGG</p>
-  <!-- Konten setelah klik ANDA -->
+  <p onclick="toggleAnda()" style="text-align: center;">Ini lah Contoh ketika bertemu kembarannya</p>
   <div id="andaContent" class="hidden">
-    <p onclick="toggleKamu()" style="text-align: center;">SAYANG BANGET SAMA AKU.....</p>
-    
+    <p onclick="toggleKamu()" style="text-align: center;">Jangan di buka nanti nyesal</p>
     <div id="kamuContent" class="hidden">
-      <a href="https://google.com" target="_blank" class="ya">YA</a>
+      <a href="https://www.pinterest.com/pin/167829523609590445/" target="_blank" class="ya">Klik Gambar</a>
       <br>
-      <a href="https://contoh-tidak-baik-tidak-sayang-pacar/suami.com" target="_blank" class="tidak">TIDAK</a>
+      <a href="https://www.pinterest.com/pin/71072500370112573/" target="_blank" class="tidak">Jangan di Klik</a>
     </div>
     
-    <p onclick="errorSaya()" style="text-align: center;">Cukup Sayang</p>
+    <p onclick="errorSaya()" style="text-align: center;">jangan di buka</p>
   </div>
   <div style="width: 50%; margin: auto; text-align: center;">
-    <p>&copy;2021 Ibippp Sayangkuu. All for Ibippp.</p>
+    <p>&copy;2025 Bertemu Kembaran</p>
   </div>
   <script>
     function toggleAnda() {
@@ -54,7 +52,7 @@
       document.getElementById("kamuContent").classList.toggle("hidden");
     }
     function errorSaya() {
-      alert("❌ Terjadi Error! Ibip tidak boleh klik Cukup Sayang.");
+      alert("❌ MEMANG SUDAH MIRIP! Sudah terima saja tidak perlu mengelak ");
     }
   </script>
 </body>
