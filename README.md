@@ -30,7 +30,7 @@
   </style>
 </head>
 <body>
-  <p onclick="toggleAnda()" style="text-align: center;">Ini lah Contoh ketika bertemu kembarannya</p>
+  <p onclick="toggleAnda()" style="text-align: center;">Hati-Hati ada kembarannya Hendry</p>
   <div id="andaContent" class="hidden">
     <p onclick="toggleKamu()" style="text-align: center;">Jangan di buka nanti nyesal</p>
     <div id="kamuContent" class="hidden">
@@ -52,7 +52,7 @@
       document.getElementById("kamuContent").classList.toggle("hidden");
     }
     function errorSaya() {
-      alert("❌ MEMANG SUDAH MIRIP! Sudah terima saja tidak perlu mengelak ");
+      alert("❌ MEMANG MIRIP SEKALI SAMA HENDRY!");
     }
   </script>
 </body>
