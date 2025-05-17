@@ -50,9 +50,9 @@
   <div id="andaContent" class="hidden">
     <p onclick="toggleKamu()" style="text-align: center;">Klik ini Untuk Mengetahuinya</p>
     <div id="kamuContent" class="hidden">
-      <a href="Nah.jpg" target="_blank" class="ya">Klik Gambar</a>
+      <a href="Nah.jpg" target="_blank" class="ya" style="text-align: center;">Klik Gambar</a>
       <br>
-      <a href="Keren.jpg" target="_blank" class="tidak">Jangan di Klik</a>
+      <a href="Keren.jpg" target="_blank" class="tidak" style="text-align: center;">Jangan di Klik</a>
     </div>
     
     <p onclick="errorSaya()" style="text-align: center;">jangan di buka</p>
