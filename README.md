@@ -54,7 +54,7 @@
     <div id="kamuContent" class="hidden">
       <a href="Nah.jpg" target="_blank" class="ya" style="display: block; text-align: center;">Klik Gambar</a>
       <br>
-      <a href="keren.jpg" target="_blank" class="tidak" style="text-align: center;">Jangan di Klik</a>
+      <a href="keren.jpg" target="_blank" class="tidak" style="display: block; text-align: center;">Jangan di Klik</a>
     </div>
     
     <p onclick="errorSaya()" style="text-align: center;">jangan di buka</p>
