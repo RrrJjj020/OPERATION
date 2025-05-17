@@ -8,6 +8,7 @@
       background-position: center;
       background-repeat: no-repeat;
       margin: 0;
+      height: 100vh;
       padding: 0;
       color: white;
       font-family: sans-serif;
