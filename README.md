@@ -3,7 +3,7 @@
   <title>Interaktif ANDA KAMU</title>
   <style>
     body {
-      background-image: url('Franco.jpg');
+      background-image: url('Wanted.jpg');
       background-size: cover;
       background-position: center;
       background-repeat: no-repeat;
@@ -45,7 +45,7 @@
   </style>
 </head>
 <body>
-  <p onclick="toggleAnda()" style="text-align: center;">Hati-Hati ada kembarannya Hendry</p>
+  <p onclick="toggleAnda()" style="text-align: center;">Selamat Datang Di Website Ini</p>
   <div id="andaContent" class="hidden">
     <p onclick="toggleKamu()" style="text-align: center;">Jangan di buka nanti nyesal</p>
     <div id="kamuContent" class="hidden">
