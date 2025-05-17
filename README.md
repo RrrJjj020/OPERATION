@@ -45,9 +45,10 @@
   </style>
 </head>
 <body>
-  <p onclick="toggleAnda()" style="text-align: center;">Selamat Datang Di Website Ini</p>
+  <h1>Selamat Datang Di Website Ini</h1>
+  <p onclick="toggleAnda()" style="text-align: center;">Ini Adalah Website Khusus Untuk Orang Tercinta</p>
   <div id="andaContent" class="hidden">
-    <p onclick="toggleKamu()" style="text-align: center;">Jangan di buka nanti nyesal</p>
+    <p onclick="toggleKamu()" style="text-align: center;">Klik ini Untuk Mengetahuinya</p>
     <div id="kamuContent" class="hidden">
       <a href="https://www.pinterest.com/pin/167829523609590445/" target="_blank" class="ya">Klik Gambar</a>
       <br>
