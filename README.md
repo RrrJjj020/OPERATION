@@ -14,7 +14,7 @@
       font-family: sans-serif;
     }
     .content {
-      padding: 100px;
+      padding-top: 20%;
       text-align: center;
     }
     body {
