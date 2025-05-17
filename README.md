@@ -70,7 +70,7 @@
       document.getElementById("kamuContent").classList.toggle("hidden");
     }
     function errorSaya() {
-      alert("❌ MEMANG MIRIP SEKALI SAMA HENDRY!");
+      alert("❌ INI ORANG KEREN CUY!!! JANGAN MEMBANTAH!!!");
     }
   </script>
 </body>
