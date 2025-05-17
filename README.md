@@ -33,11 +33,13 @@
       cursor: pointer;
       color: green;
       font-weight: bold;
+      text-align: center;
     }
     .tidak {
       cursor: not-allowed;
       color: red;
       font-weight: bold;
+      text-align: center;
 
     #kamuContent {
       text-align: center;
@@ -52,7 +54,7 @@
     <div id="kamuContent" class="hidden">
       <a href="Nah.jpg" target="_blank" class="ya" style="text-align: center;">Klik Gambar</a>
       <br>
-      <a href="Keren.jpg" target="_blank" class="tidak" style="text-align: center;">Jangan di Klik</a>
+      <a href="keren.jpg" target="_blank" class="tidak" style="text-align: center;">Jangan di Klik</a>
     </div>
     
     <p onclick="errorSaya()" style="text-align: center;">jangan di buka</p>
