@@ -45,7 +45,7 @@
   </style>
 </head>
 <body>
-  <h1>Selamat Datang Di Website Ini</h1>
+  <h1 style="text-align: center;">Selamat Datang Di Website Ini</h1>
   <p onclick="toggleAnda()" style="text-align: center;">Ini Adalah Website Khusus Untuk Orang Tercinta</p>
   <div id="andaContent" class="hidden">
     <p onclick="toggleKamu()" style="text-align: center;">Klik ini Untuk Mengetahuinya</p>
