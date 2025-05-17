@@ -3,13 +3,13 @@
   <title>Interaktif ANDA KAMU</title>
   <style>
     body {
-      background-image: url('https://example.com/gambar.jpg'); /* Ganti dengan link gambarmu */
-      background-size: cover; /* agar gambar memenuhi seluruh layar */
+      background-image: url('Franco.jpg');
+      background-size: cover;
       background-position: center;
       background-repeat: no-repeat;
       margin: 0;
       padding: 0;
-      color: white; /* teks warna putih agar terlihat */
+      color: white;
       font-family: sans-serif;
     }
     .content {
