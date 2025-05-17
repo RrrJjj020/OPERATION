@@ -52,7 +52,7 @@
   <div id="andaContent" class="hidden">
     <p onclick="toggleKamu()" style="text-align: center;">Klik ini Untuk Mengetahuinya</p>
     <div id="kamuContent" class="hidden">
-      <a href="Nah.jpg" target="_blank" class="ya" style="text-align: center;">Klik Gambar</a>
+      <a href="Nah.jpg" target="_blank" class="ya" style="display: block; text-align: center;">Klik Gambar</a>
       <br>
       <a href="keren.jpg" target="_blank" class="tidak" style="text-align: center;">Jangan di Klik</a>
     </div>
