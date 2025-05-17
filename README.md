@@ -13,7 +13,7 @@
       font-family: sans-serif;
     }
     .content {
-      padding: 50px;
+      padding: 100px;
       text-align: center;
     }
     body {
